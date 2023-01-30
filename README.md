@@ -1,7 +1,7 @@
 # ApiNodeShop
 
 
-## Project dependecies
+## Instalar dependencias do projeto 
 ```
 npm install
 ```
